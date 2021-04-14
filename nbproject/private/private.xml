@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/tai/database/migrations/2021_01_20_102421_commentss.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/comments.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/seeders/DatabaseSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/lang/en/validation.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/layouts/navbar.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/migrations/2021_01_20_101018_reports22.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/auth/verify.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/lang/pl/validation.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/factories/UserFactory.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/CommentsController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/migrations/2014_10_12_100000_create_password_resets_table.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/migrations/2019_08_19_000000_create_failed_jobs_table.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/lang/en/auth.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/css/custom_style.css</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/profile.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/migrations/2021_01_19_125000_create_reactions_table.php</file>
+            <file>file:/C:/xampp/htdocs/tai/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/UsersController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/commentsForm.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/nameEditForm.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/Auth/VerificationController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/migrations/2021_01_17_213214_create_comments_table.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/migrations/2021_01_20_092625_users3.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/ReportsController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/reports.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/auth/register.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/Auth/ForgotPasswordController.php</file>
+        </group>
+    </open-files>
+</project-private>
